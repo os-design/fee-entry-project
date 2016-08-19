@@ -4,7 +4,7 @@ You will develop a single page application featuring a map of your neighborhood 
 
 ## How will I complete this Project?
 1. Please use Angular.js or your favourite front-end mvvm framework.
-2. Use design patterns which help reduce the complexity and depencies with in code.
+2. Use design patterns which help reduce the complexity and depencies within your code.
 3. Write code required to add a full-screen map to your page using the Google Maps API.
 4. Write code required to add map markers identifying a number of locations you are interested in within this neighborhood.
 5. Implement the search bar functionality to search your map markers.
