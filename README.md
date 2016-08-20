@@ -9,7 +9,7 @@ You will develop a single page application featuring a map of your neighborhood 
 4. Write code required to add map markers identifying a number of locations you are interested in within this neighborhood.
 5. Implement the search bar functionality to search your map markers.
 6. Implement a list view of the identified locations.
-7. Add additional functionality using third-party APIs when a map marker, search result, or list view entry is clicked (ex. Yelp reviews, Wikipedia, StreetView/Flickr images, etc). If you need a refresher on making AJAX requests to third-party servers.
+7. Add additional functionality using third-party APIs when a map marker, search result, or list view entry is clicked (ex. Yelp reviews, Wikipedia, StreetView/Flickr images, etc). 
 8. Other functionalities you think might be helpful to your users. (optional, you can just improvise)
 
 ##Helpful Resources
