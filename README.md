@@ -3,7 +3,7 @@
 You will develop a single page application featuring a map of your neighborhood or a neighborhood you would like to visit. You will then add additional functionality to this map including highlighted locations, third-party data about those locations and various ways to browse the content.
 
 ## How will I complete this Project?
-1. Please use Angular.js or your favourite front-end mvvm framework.
+1. Please use Angular.js or your favourite front-end MV* framework.
 2. Use design patterns which help reduce the complexity and depencies within your code.
 3. Write code required to add a full-screen map to your page using the Google Maps API.
 4. Write code required to add map markers identifying a number of locations you are interested in within this neighborhood.
